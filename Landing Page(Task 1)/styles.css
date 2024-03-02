@@ -82,7 +82,7 @@ nav a:hover {
 .cta-button {
   display: inline-block;
   padding: 15px 30px;
-  background-color: #ff6600;
+  background-color: #7700ff;
   color: #fff;
   text-decoration: none;
   border-radius: 25px;
@@ -92,7 +92,7 @@ nav a:hover {
 
 /* Apply background color when hovering over "Get Started" button */
 .cta-button:hover {
-  background-color: #ff8000;
+  background-color: #190064;
 }
 
 /* Footer styles */
